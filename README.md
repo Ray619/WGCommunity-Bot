@@ -1,0 +1,2 @@
+# WGCommunity-Bot
+WGCommunity™
